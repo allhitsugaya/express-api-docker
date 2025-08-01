@@ -1,0 +1,1 @@
+const pairs: [string, string][] = [['key', 'value'], ['key1', 'value1']];
